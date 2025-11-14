@@ -1,0 +1,40 @@
+{
+  "selected_features": [
+    "figo_stage_encoded",
+    "treatment_Chemotherapy",
+    "treatment_Surgery_Open",
+    "treatment_Targeted_Molecular_Therapy",
+    "gene_CACNG5",
+    "gene_BAMBI",
+    "gene_CACYBP",
+    "gene_MAP2K2",
+    "gene_ITGA10",
+    "gene_RASGRP3",
+    "gene_CACNA2D1",
+    "gene_CACNA2D3",
+    "gene_COL6A5",
+    "gene_DDIT3",
+    "gene_IFNA10",
+    "gene_HSPA1B",
+    "gene_IFNA4"
+  ],
+  "selected_idx": [
+    12,
+    19,
+    25,
+    26,
+    114,
+    165,
+    344,
+    403,
+    523,
+    581,
+    584,
+    607,
+    741,
+    755,
+    817,
+    859,
+    886
+  ]
+}

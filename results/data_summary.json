@@ -1,0 +1,14 @@
+{
+  "n_samples_total": 362,
+  "n_samples_train": 289,
+  "n_samples_test": 73,
+  "n_features": 898,
+  "n_clinical_features": 19,
+  "n_gene_features": 879,
+  "train_label_0": 221,
+  "train_label_1": 68,
+  "test_label_0": 56,
+  "test_label_1": 17,
+  "standardization_method": "StandardScaler on train, then transform test",
+  "random_state": 42
+}

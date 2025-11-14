@@ -1,0 +1,36 @@
+{
+  "outer_cv_metrics": {
+    "auroc_mean": 0.5907786657786658,
+    "auroc_std": 0.05899688146248654,
+    "auprc_mean": 0.3517319059752673,
+    "auprc_std": 0.08072587387685419,
+    "f1_mean": 0.38074731212694957,
+    "f1_std": 0.09470563384835355,
+    "recall_mean": 0.4402930402930402,
+    "recall_std": 0.13005468584340094,
+    "specificity_mean": 0.7377777777777778,
+    "specificity_std": 0.046656467717308844,
+    "accuracy_mean": 0.6677555958862674,
+    "accuracy_std": 0.04528753687918682
+  },
+  "test_set_metrics": {
+    "auroc": 0.6995798319327732,
+    "auprc": 0.4082611922298165,
+    "f1": 0.45454545454545453,
+    "recall": 0.5882352941176471,
+    "precision": 0.37037037037037035,
+    "specificity": 0.6964285714285714,
+    "accuracy": 0.6712328767123288,
+    "tp": 10,
+    "fp": 17,
+    "tn": 39,
+    "fn": 7
+  },
+  "final_model_params": {
+    "selector__k": 50,
+    "classifier__l1_ratio": 0.2,
+    "classifier__C": 0.1
+  },
+  "n_outer_folds": 15,
+  "n_inner_folds": 5
+}

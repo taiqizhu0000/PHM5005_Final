@@ -1,0 +1,16 @@
+clf__C,clf__kernel,selector__k
+0.1,linear,all
+0.1,linear,all
+10.0,rbf,500
+0.1,linear,500
+10.0,rbf,300
+0.1,rbf,all
+0.1,rbf,300
+10.0,rbf,all
+0.1,rbf,300
+0.1,rbf,300
+0.1,rbf,500
+0.1,linear,300
+0.1,rbf,all
+0.1,linear,all
+0.1,linear,all
